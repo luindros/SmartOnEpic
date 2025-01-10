@@ -4,7 +4,7 @@ SmartOnEpic is a web application designed to allow patients registered in the EP
 
 To implement this application, we registered an account in Epic's sandbox environment and set up an app to route the web application's queries through this registered app.
 For more information, visit: https://fhir.epic.com/
-https://fhir.epic.com/
+
 
 Key Features of the web app created in this repository:
 -Authentication: Provides a "Sign In" button for patients to log in to their EPIC account securely.
